@@ -1,0 +1,116 @@
+{
+  "title": {
+    "text": {
+      "headline": "Bayes’s Theorem – A Historical Timeline",
+      "text": "Key milestones from Thomas Bayes’s lifetime to modern Bayesian computation"
+    }
+  },
+  "events": [
+    {
+      "start_date": { "year": "1702" },
+      "text": {
+        "headline": "Birth of Thomas Bayes",
+        "text": "Thomas Bayes is born in London, England. His later work on inverse probability will become the basis of Bayes’s theorem."
+      }
+    },
+    {
+      "start_date": { "year": "1748" },
+      "text": {
+        "headline": "Elected Fellow of the Royal Society",
+        "text": "Bayes is elected a Fellow of the Royal Society, highlighting his growing reputation as a mathematician and theologian."
+      }
+    },
+    {
+      "start_date": { "year": "1761" },
+      "text": {
+        "headline": "Richard Price Discovers Bayes’s Manuscript",
+        "text": "After Bayes’s death in 1761, his friend Richard Price finds the unpublished essay outlining what is now Bayes’s theorem."
+      }
+    },
+    {
+      "start_date": { "year": "1763", "month": "4", "day": "23" },
+      "text": {
+        "headline": "Posthumous Publication of Bayes’s Essay",
+        "text": "Price presents “An Essay toward solving a Problem in the Doctrine of Chances” to the Royal Society, formally introducing Bayes’s theorem."
+      }
+    },
+    {
+      "start_date": { "year": "1812" },
+      "text": {
+        "headline": "Laplace Generalizes Bayes’s Theorem",
+        "text": "Pierre-Simon Laplace publishes <i>Théorie analytique des probabilités</i>, extending and popularising Bayes’s ideas as a general rule of inference."
+      }
+    },
+    {
+      "start_date": { "year": "1837" },
+      "text": {
+        "headline": "Name “Bayes’s Theorem” Enters the Literature",
+        "text": "Augustus De Morgan and contemporaries begin referring explicitly to Bayes’s rule as “Bayes’s theorem,” cementing the nomenclature."
+      }
+    },
+    {
+      "start_date": { "year": "1933" },
+      "text": {
+        "headline": "Kolmogorov Axioms Formalise Probability",
+        "text": "Andrey Kolmogorov’s axiomatic framework subsumes conditional probability, giving Bayes’s theorem its modern mathematical foundation."
+      }
+    },
+    {
+      "start_date": { "year": "1939" },
+      "text": {
+        "headline": "Jeffreys Publishes <i>Theory of Probability</i>",
+        "text": "Sir Harold Jeffreys revives Bayesian inference in science, advocating objective priors and laying groundwork for modern Bayesian statistics."
+      }
+    },
+    {
+      "start_date": { "year": "1943" },
+      "text": {
+        "headline": "Bayesian Logic at Bletchley Park",
+        "text": "Alan Turing and colleagues implicitly apply Bayesian reasoning to code-breaking, demonstrating its practical power during World War II."
+      }
+    },
+    {
+      "start_date": { "year": "1953" },
+      "text": {
+        "headline": "Metropolis Algorithm Enables Bayesian Computation",
+        "text": "The Metropolis–Rosenbluth algorithm introduces Markov-chain Monte Carlo (MCMC), making high-dimensional Bayesian inference feasible."
+      }
+    },
+    {
+      "start_date": { "year": "1984" },
+      "text": {
+        "headline": "Gibbs Sampling Introduced",
+        "text": "Stuart Geman & Donald Geman’s paper on image restoration presents Gibbs sampling, a cornerstone of Bayesian MCMC techniques."
+      }
+    },
+    {
+      "start_date": { "year": "1990" },
+      "text": {
+        "headline": "MCMC Popularised by Gelfand & Smith",
+        "text": "Their seminal work demonstrates practical Bayesian analysis via Gibbs sampling, sparking a surge of applied Bayesian research."
+      }
+    },
+    {
+      "start_date": { "year": "1993" },
+      "text": {
+        "headline": "First Release of BUGS Software",
+        "text": "Bayesian inference Using Gibbs Sampling (BUGS) provides accessible, general-purpose tools for Bayesian modelling."
+      }
+    },
+    {
+      "start_date": { "year": "2012" },
+      "text": {
+        "headline": "Stan Probabilistic Programming Language",
+        "text": "The open-source Stan project delivers fast Hamiltonian Monte Carlo and automatic differentiation, accelerating Bayesian analysis."
+      }
+    },
+    {
+      "start_date": { "year": "2023" },
+      "text": {
+        "headline": "Bayesian Ideas in Large-Scale Machine Learning",
+        "text": "Variational inference, Bayesian deep learning, and uncertainty estimation become integral to state-of-the-art AI systems."
+      }
+    }
+  ]
+}
+
